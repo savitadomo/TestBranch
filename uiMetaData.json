@@ -1,7 +1,7 @@
 {
   "name": "TestBranch",
   "connectorType": "datagrid",
-  "userId": null,
+  "userId": "111",
   "domoClientId": null,
   "domoClientSecret": null,
   "additionalInfo": null,
